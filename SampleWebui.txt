@@ -3,3 +3,4 @@ This is sample file for webhook - testing
 3rd : trigger goes  from Github to jenkins
 4th using IP from "whats my IP" - FAILED
 5th using IPv4 as URL
+6th using IPv4 -Public address
