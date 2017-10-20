@@ -1,2 +1,3 @@
 This is sample file for webhook - testing
 1st commit - Webhooks should now trigger the JOB and Build to be PASSed
+3rd : trigger goes  from Github to jenkins
